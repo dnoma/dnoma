@@ -14,7 +14,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 > **Computer scientist by training. Building legal systems that survive scrutiny.**  
-> AI can draft fast, but disputes teams can’t file fast — verification is the bottleneck.
+> AI can draft fast, but disputes teams can’t file fast. Verification is the bottleneck.
 
 ---
 
@@ -52,4 +52,4 @@ Singapore is our proving ground, with **Hong Kong next**.
 
 ## Philosophy
 
-> Ship beats perfect — but provenance beats vibes.
+> Ship beats perfect, but provenance beats vibes.
