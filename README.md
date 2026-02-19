@@ -23,7 +23,7 @@
 I’m the technical cofounder at **Veracia**. We’re building a **deterministic verification layer** for disputes and arbitration teams: filing-grade outputs where **each material proposition maps to a specific source passage**, with an audit trail. When support is missing or ambiguous, the system **flags, constrains, or abstains** rather than guessing.
 
 **Provenance first. Reproducible by design. Safe failure modes.**  
-Singapore is our proving ground, with **Hong Kong next**.
+Singapore is our proving ground, with **Hong Kong & Australia next**.
 
 ---
 
