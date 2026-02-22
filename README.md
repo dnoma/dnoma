@@ -1,6 +1,6 @@
 # Hi, I'm Marcus Ng 👋
 
-📍 **Singapore ↔ Vietnam** | ⚖️ **Technical cofounder @ Veracia** | 🧾 **Deterministic, citation-first verification (on-prem)**
+📍 **Singapore ↔ Vietnam | Software Engineer & Lawyer in Training ⚖️** | 🧾 **Deterministic, citation-first verification (on-prem)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
