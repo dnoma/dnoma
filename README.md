@@ -1,6 +1,6 @@
 # Hi, I'm Marcus Ng 👋
 
-📍 **Singapore ↔ Vietnam | Software Engineer & Lawyer in Training ⚖️** | 🧾 **Deterministic, citation-first verification (on-prem)**
+📍 **Singapore ↔ Vietnam | AI Researcher, Software & Legal Engineer ⚖️**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -18,28 +18,15 @@
 
 ---
 
-## What I’m Building (Stealth)
+# Hi, I'm Marcus Ng 👋
 
-I’m the technical cofounder at **Veracia**. We’re building a **deterministic verification layer** for disputes and arbitration teams: filing-grade outputs where **each material proposition maps to a specific source passage**, with an audit trail. When support is missing or ambiguous, the system **flags, constrains, or abstains** rather than guessing.
+I’m a software engineer and technical founder interested in building trustworthy systems for high-stakes work.
 
-**Provenance first. Reproducible by design. Safe failure modes.**  
-Singapore is our proving ground, with **Hong Kong & Australia next**.
+Currently, I’m building Veracia, where we focus on legal technology for disputes and arbitration teams. More broadly, my work explores AI reliability, verification, auditability, and the infrastructure needed to make complex systems dependable.
 
----
+My background combines engineering and law, and I’m especially interested in legal AI, retrieval systems, and regulatory technology.
 
-## Notable Repos
-
-- 🔭 **[foresight](https://github.com/dnoma/foresight)** — research + workflow tooling for high-stakes analysis
-- ⚖️ **[Vera](https://github.com/dnoma/Vera)** — provenance-first legal verification (stealth product work is closed-source)
-- 📜 **[RegDelta](https://github.com/dnoma/RegDelta)** — regulatory change tracking as structured deltas
-
----
-
-## Background
-
-- Built production retrieval systems over **100K+ documents** under strict reliability constraints  
-- Now applying the same engineering discipline to legal work product: **provenance, reproducibility, and auditability**
-- Academic focus: **Commercial & Financial Law (Dual LL.M)**, with a practical emphasis on **disputes-grade verification and assurance**
+> I like building systems that survive scrutiny.
 
 ---
 
