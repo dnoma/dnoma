@@ -14,11 +14,6 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 > **Computer scientist by training. Building legal systems that survive scrutiny.**  
-> AI can draft fast, but disputes teams can’t file fast. Verification is the bottleneck.
-
----
-
-# Hi, I'm Marcus Ng 👋
 
 I’m a software engineer and technical founder interested in building trustworthy systems for high-stakes work.
 
@@ -26,17 +21,9 @@ Currently, I’m building Veracia, where we focus on legal technology for disput
 
 My background combines engineering and law, and I’m especially interested in legal AI, retrieval systems, and regulatory technology.
 
-> I like building systems that survive scrutiny.
-
 ---
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Marcus_Ng-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-junhao/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dnoma)
-
----
-
-## Philosophy
-
-> Ship beats perfect, but provenance beats vibes.
